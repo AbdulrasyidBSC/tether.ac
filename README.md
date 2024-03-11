@@ -1,0 +1,2 @@
+# tether.ac
+TRUSTWALLET
